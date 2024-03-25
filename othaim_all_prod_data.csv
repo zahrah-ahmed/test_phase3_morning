@@ -1,0 +1,195 @@
+,name,price,old_price,category,has_discount
+0,ذرة قودي حبة ذهبية علب 196 جرام,4.75,,grocery,False
+1,زيتون كوبوليفا اسود بلا نوى150 جرام,7.95,,grocery,False
+2,زيتون حلواني اخضر بالزيت 650 جرام,31.95,,grocery,False
+3,فول حدائق كاليفورنيا خلطة لبنانية 450 جرام,"Special Price
+
+                    4.95",6.95,grocery,True
+4,فول حدائق كاليفورنيا مع فلفل 450 جرام,"Special Price
+
+                    4.95",6.95,grocery,True
+5,فول حدائق كاليفورنيا خلطة مصرية 450 جرام,"Special Price
+
+                    4.95",6.95,grocery,True
+6,فول لونا امريكي علب 450 جرام,3.75,,grocery,False
+7,فاصوليا لونا بيضاء 400 جرام,4.25,,grocery,False
+8,زيتون اليسا اسود علب 100 جرام,"Special Price
+
+                    5.50",6.95,grocery,True
+9,زيتون كوبوليفا اسود علب 100جرام,5.75,,grocery,False
+10,زيتون كوبوليفا اسود شرائح 114 جرام,"Special Price
+
+                    5.95",8.50,grocery,True
+11,حمص حدائق كاليفورنيا طحينة 400 جرام,5.25,,grocery,False
+12,تونة قودي قليل الدسم بالماء 95جرام,5.95,,grocery,False
+13,تونة قودي قليل الدسم بالماء 195جرام,8.95,,grocery,False
+14,زيتون اليسا اسود بلا عجو 150 جرام,8.50,,grocery,False
+15,تونة هالي خفيف 200جرام,6.50,,grocery,False
+16,تونة هالي ابيض 200جرام,5.25,,grocery,False
+17,بزاليا هالي خضراء علب 400 جرام,1.75,,grocery,False
+18,زيتون كوبوليفا اسود #160 5 كيلو,135.95,,fresh-and-bakery,False
+19,زيتون كوبوليفا اسود شرائح 900جرام,"Special Price
+
+                    21.50",23.95,fresh-and-bakery,True
+20,زيتون كوبوليفا اسود #320 5كيلو,97.95,,fresh-and-bakery,False
+21,مرتديلا سنيورة رومي زيتون 500 جرام,19.95,,fresh-and-bakery,False
+22,صدور دجاج التنمية بدون عظم450ج,19.95,,fresh-and-bakery,False
+23,كعك حفلة سويتز 12حبه,8.00,,fresh-and-bakery,False
+24,دجاج التنمية طازج طبق 1000جرام,20.95,,fresh-and-bakery,False
+25,دجاج التنمية طازج طبق 1200جرام,22.25,,fresh-and-bakery,False
+26,دجاج التنمية طازج طبق 1100جرام,21.75,,fresh-and-bakery,False
+27,زبادي الصافي 170جرام,2.00,,fresh-and-bakery,False
+28,زبادي الصافي قليل الدسم 170جرام,2.00,,fresh-and-bakery,False
+29,زبادي زادي فراولة 100جرام,1.50,,fresh-and-bakery,False
+30,زبادي نادك طازج 1كيلو,8.00,,fresh-and-bakery,False
+31,بودي نادك حلى فانيليا 75جرام,1.25,,fresh-and-bakery,False
+32,لبنة بينار طازجة سطل 2.75كيلو,"Special Price
+
+                    68.50",90.50,fresh-and-bakery,True
+33,لبن المراعي طازج كرتون 1لتر,6.00,,fresh-and-bakery,False
+34,لبن المراعي طازج بلاستيك قليل الدسم 2لتر,11.00,,fresh-and-bakery,False
+35,لبن المراعي بلاستيك قليل الدسم 180مل,2.00,,fresh-and-bakery,False
+36,برجر امريكانا دجاج اكياس 15 حبة,26.95,,frozen,False
+37,كفتة ارز امريكانا مصرية 900 جرام,29.95,,frozen,False
+38,مفروم دجاج الوطنية رول 400 جرام,8.95,,frozen,False
+39,بامية مونتانا زيرو مجمدة 400 جرام,"Special Price
+
+                    6.50",9.95,frozen,True
+40,نقانق دجاج دو حار 400 جرام,8.50,,frozen,False
+41,ذرة مونتانا سكرية حب 400 جرام,"Special Price
+
+                    3.75",5.50,frozen,True
+42,برجر هرفي دجاج بالبقسماط 450 جرام,16.95,,frozen,False
+43,برجر هرفي دجاج بالبقسماط 672 جرام,24.50,,frozen,False
+44,برجر هرفي دجاج بالبقسماط 1120ج,38.95,,frozen,False
+45,رقائق السنبلة سبرنج رول بر160 جرام,"Special Price
+
+                    3.95",6.95,frozen,True
+46,كبة شامي لحم بقر ميني 450 جرام,21.95,,frozen,False
+47,مفروم دجاج امريكانا 400جرام,"Special Price
+
+                    5.50",8.50,frozen,True
+48,مفروم غنم امريكانا 400جرام,"Special Price
+
+                    5.50",9.50,frozen,True
+49,مفروم غنم الهبرة 400جرام,7.50,,frozen,False
+50,مفروم بقر سعودي 400جرام,"Special Price
+
+                    3.95",4.95,frozen,True
+51,مفروم بقر شهية مربع 400جرام,"Special Price
+
+                    8.25",10.25,frozen,True
+52,روبيان سيبلو جامبو 500جرام,114.95,,frozen,False
+53,برجر امريكانا دجاج 24حبة 1200جرام,38.95,,frozen,False
+54,حلوى بقر لاكسوري المداح 800جرام,42.95,,beverage-confectionery,False
+55,بسكويت شاي اولكر 175جرام,2.50,,beverage-confectionery,False
+56,بسكويت ديمة مشكل 3×684جرام,26.50,,beverage-confectionery,False
+57,بسكويت ديمة ملت بالحليب12×57جرام,12.95,,beverage-confectionery,False
+58,كليجا بلفيتا بالهيل 72ج,2.00,,beverage-confectionery,False
+59,بسكويت اوريو كريمة شوكولاتة44جرام,1.50,,beverage-confectionery,False
+60,بسكويت اوريو حليب وشوكولاتة44جرام,1.50,,beverage-confectionery,False
+61,بسكويت اولكر سندوتش #77-4 25جرام,0.75,,beverage-confectionery,False
+62,بسكويت بورقات مالح خضار110جرام,"Special Price
+
+                    7.17",7.95,beverage-confectionery,True
+63,بسكويت بورقات مالح جبن 110جرام,"Special Price
+
+                    7.17",7.95,beverage-confectionery,True
+64,بسكويت ديمة بالتمر 150جرام,2.50,,beverage-confectionery,False
+65,كيك يمامة غندور برتقال 12حبة,8.95,,beverage-confectionery,False
+66,كيك يمامة غندور فانيليا 12حبة,8.95,,beverage-confectionery,False
+67,شابورة امريكانا احمر 375جرام,7.25,,beverage-confectionery,False
+68,معمول الكرامة تمر 500جرام,"Special Price
+
+                    12.25",16.25,beverage-confectionery,True
+69,بسكويت ريتز مالح كراكرز 400جرام,9.95,,beverage-confectionery,False
+70,بسكويت ريتز مالح كراكرز 200جرام,4.00,,beverage-confectionery,False
+71,بسكويت تيشوب نخالة 260جرام,2.75,,beverage-confectionery,False
+72,مزيل ع دوف خيار وشاي الاخضر50مل,22.95,,health-beauty,False
+73,لوشن نيفيا لشد البشرة 400مل,49.95,,health-beauty,False
+74,لوشن نيفيا بالمسك جذاب 400مل,32.95,,health-beauty,False
+75,لوشن بالمرز لشد الجلد 250 مل,32.95,,health-beauty,False
+76,مزيل ع ليدي سبيد حساس 45جرام,24.95,,health-beauty,False
+77,مزيل عرق مام رصاصي رول 50مل,15.95,,health-beauty,False
+78,لوشن جرجنز مقاوم شيخوخة 400مل,32.95,,health-beauty,False
+79,شامبو هيمالايا جاف مع بلسم400مل,13.95,,health-beauty,False
+80,شامبو شولدرز كثافة جديد 400مل,23.95,,health-beauty,False
+81,شامبو شولدرز فريش جديد400مل,23.95,,health-beauty,False
+82,شامبو صانسيلك قوة ولمعان 200مل,12.95,,health-beauty,False
+83,شامبو صانسيلك قوة ولمعان 700مل,"Special Price
+
+                    14.95",32.95,health-beauty,True
+84,شامبو صانسيلك قوةولمعان 400مل,19.95,,health-beauty,False
+85,شامبو صانسيلك نعومةوحيوية400مل,19.95,,health-beauty,False
+86,شامبو صانسيلك ضد تساقط 400مل,19.95,,health-beauty,False
+87,شامبو صانسيلك ناعم وانسيابي 700مل,"Special Price
+
+                    14.95",32.95,health-beauty,True
+88,شامبو هيربال باي باي جفاف400مل,20.25,,health-beauty,False
+89,شامبو هيربال كثير كثيف 400مل,20.25,,health-beauty,False
+90,طعام اطفال سيريلاك عسل 400 جرام,31.95,,baby-needs-5,False
+91,حليب اطفال رونالاك #1 400جرام,38.95,,baby-needs-5,False
+92,حليب نيدو بالعسل 3سنوات 1800ج,117.00,,baby-needs-5,False
+93,حليب نيدو بريبايو مقوى 1800ج,127.95,,baby-needs-5,False
+94,حليب أطفال روناجرو #3 فانيليا 400جرام,39.95,,baby-needs-5,False
+95,طعام اطفال سيريلاك فواكة 1كيلو,76.95,,baby-needs-5,False
+96,طعام اطفال سيريلاك أرز 400 جرام,29.50,,baby-needs-5,False
+97,طعام اطفال بلفيت بالعسل 300جرام,27.50,,baby-needs-5,False
+98,طعام اطفال سيريلاك قمح 1000جرام,69.95,,baby-needs-5,False
+99,حليب نيدو بالعسل 3سنوات 400جرام,31.95,,baby-needs-5,False
+100,زيت جونسون اطفال 200مل,"Special Price
+
+                    19.95",29.95,baby-needs-5,True
+101,جلي جونسون اطفال معطر 250مل,"Special Price
+
+                    13.95",18.95,baby-needs-5,True
+102,زيت جونسون اطفال 300مل,40.95,,baby-needs-5,False
+103,زيت جونسون اطفال 500مل,52.95,,baby-needs-5,False
+104,بودرة نونو اطفال 100جرام,"Special Price
+
+                    10.95",12.95,baby-needs-5,True
+105,شامبو نونو اطفال 500مل,"Special Price
+
+                    19.95",22.95,baby-needs-5,True
+106,حليب نيدو بريبايو مقوي 400جرام,34.95,,baby-needs-5,False
+107,حليب اطفال رونالاك 2 فانيليا 400 جرام,38.95,,baby-needs-5,False
+108,قصدير كلوب 45سم,7.50,,home-care,False
+109,قصدير سانيتا 75قدم مربع,16.95,,home-care,False
+110,قصدير سانيتا 200قدم مربع,40.95,,home-care,False
+111,قصدير سانيتا 300 ملم,"Special Price
+
+                    29.95",43.95,home-care,True
+112,"قصدير سانيتا 37,5قدم",12.95,,home-care,False
+113,قصدير سانيتا 450مم,65.95,,home-care,False
+114,قصدير شراع 2×45×600سم,"Special Price
+
+                    12.95",17.25,home-care,True
+115,رول تغليف سانيتا 3×30م×300مم,20.95,,home-care,False
+116,رول تغليف سانيتا 45سم,42.95,,home-care,False
+117,رول تغليف سانيتا 30سم,"Special Price
+
+                    22.95",32.95,home-care,True
+118,رول تغليف سانيتا 20متر×450مم,7.25,,home-care,False
+119,اكياس شراع حفظ اطعمة #10,7.50,,home-care,False
+120,اكياس بلاستي نت حفظ اطعمة #12,"Special Price
+
+                    19.95",27.95,home-care,True
+121,اكياس بلاستي نت حفظ اطعمة #10,"Special Price
+
+                    15.95",18.75,home-care,True
+122,اكياس بلاستي نت حفظ اطعمة #8,"Special Price
+
+                    10.95",14.00,home-care,True
+123,اكياس شراع حفظ اطعمة #12,7.50,,home-care,False
+124,اكياس نابكو حفظ اطعمة #14,10.95,,home-care,False
+125,اكياس نابكو حفظ اطعمة #16,13.95,,home-care,False
+126,صانع طعام كينود 220 فولت,285.00,,electronics-appliances,False
+127,ميكرويف كليك وان 20ل #4306,259.00,,electronics-appliances,False
+128,خلاط نيكاي مع مطحنة #بي اي2900,119.00,,electronics-appliances,False
+129,خلاط نيكاي مع مطحنة#1713بي ان,119.00,,electronics-appliances,False
+130,مضرب كينوود بيض 330,115.00,,electronics-appliances,False
+131,قطاعة خضار اي تي سي#ام اكس 4سي,65.00,,electronics-appliances,False
+132,قطاعة خضار كينوود 550,129.00,,electronics-appliances,False
+133,قطاعة خضار كينوود .5ل #580,139.00,,electronics-appliances,False
+134,سخان سندوتش كينوود بشواية 360,139.00,,electronics-appliances,False
+135,صانع طعام جيباس  4ه1 2031,139.00,,electronics-appliances,False
