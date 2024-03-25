@@ -1,1 +1,3 @@
-print("Hello github")
+- We will explain how to make repo
+- how to commit 
+- push
