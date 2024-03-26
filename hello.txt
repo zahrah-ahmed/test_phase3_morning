@@ -1,3 +1,4 @@
 - We will explain how to make repo
 - how to commit 
 - push
+- and pull request
